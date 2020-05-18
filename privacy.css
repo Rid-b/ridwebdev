@@ -1,0 +1,23 @@
+body
+{
+	background-size: 1550px;
+}
+#i
+{
+	text-align:center;
+	color:white;
+	font-size:37px;
+}
+#k
+{
+	border: 2px dashed brown;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#e
+{
+	margin-left:200px;
+	margin-right:200px;
+	font-size:20px;
+	color:white;
+}

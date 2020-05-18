@@ -1,0 +1,31 @@
+body
+{
+	background-size:1500px;
+}
+#s
+{
+	margin-top:20px;
+	text-align:center;
+	color:white;
+	font-family: Montserrat;
+}
+#i
+{
+	width:200px;
+	height:55px;
+	font-size:15px;
+
+}
+#about
+{
+	margin-top:50px;
+	color:white;
+	padding:20px;
+
+}
+#u
+{
+	border: 2px solid white;
+	width:300px;
+}
+
